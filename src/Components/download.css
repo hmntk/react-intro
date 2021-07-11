@@ -1,0 +1,12 @@
+.download {
+  background: rgb(117, 97, 58);
+  border-radius: 15px;
+  color: white;
+  width: 135px;
+  text-align: center;
+  font-size: 15px;
+  padding: 5px 10px;
+  letter-spacing: 1px;
+  margin: 6% 3%;
+  border: none;
+}

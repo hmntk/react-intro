@@ -1,0 +1,12 @@
+.contact {
+  background: rgb(168, 34, 34);
+  border-radius: 15px;
+  color: white;
+  width: 135px;
+  text-align: center;
+  font-size: 15px;
+  padding: 5px 10px;
+  letter-spacing: 1px;
+  margin: 6% 3%;
+  border: none;
+}
